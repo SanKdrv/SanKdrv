@@ -13,4 +13,4 @@ Backend-разработчик: **Python** и **Go**, сервисы на FastAP
 - [panel](https://github.com/SanKdrv/panel) — админ-панель RAG-системы
 - [ollama-models-bench](https://github.com/SanKdrv/ollama-models-bench) — бенчмарк локальных LLM
 
-📫 Telegram: [@snkdbuis](https://t.me/snkdbuis)
+📫 Telegram: [@snkdbuis](https://t.me/snkdbuis) · VK: [san_kdrv](https://vk.ru/san_kdrv)
